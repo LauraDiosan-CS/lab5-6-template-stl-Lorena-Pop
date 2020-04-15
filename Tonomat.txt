@@ -1,0 +1,3 @@
+3 5 ciocolata
+4 7 croissante
+5 12 suc
